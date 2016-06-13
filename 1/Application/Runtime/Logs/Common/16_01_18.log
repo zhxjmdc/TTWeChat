@@ -1,0 +1,12 @@
+[ 2016-01-18T16:17:29+08:00 ] 127.0.0.1 /TTWeChat/index.php/app_download
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:App_download
+
+[ 2016-01-18T16:17:36+08:00 ] 127.0.0.1 /TTWeChat/index.php/Index/app_download
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:Index
+
